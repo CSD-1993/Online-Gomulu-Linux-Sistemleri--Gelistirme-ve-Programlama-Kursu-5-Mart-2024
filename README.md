@@ -1,1 +1,1 @@
-# Online-Gomulu-Unix-Programlama-Kursu-27-Subat-2024
+# Online-Gomulu-Linux-Programlama-Kursu-27-Subat-2024
