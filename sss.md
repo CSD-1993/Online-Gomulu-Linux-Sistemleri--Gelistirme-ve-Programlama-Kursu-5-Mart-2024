@@ -1,4 +1,4 @@
- ### Online Gömülü Linux Sistemleri Kursu - Sıkça Sorulan Sorular
+ ### Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu - Sıkça Sorulan Sorular
 
 ### Kursa katılabilmem için hangi düzeyde Python bilgisine sahip olmalıyım?
 Kursa katılabilmeniz için temel düzeyde bir Python bilgisi yeterli olmaktadır. Ancak Python bilginiz ve deneyiminiz ne kadar iyiyse anlatılanları uygulamaya sokma konusunda o kadar avantaj sağlayacaksınız. Kursun başında Python Programlama Dili ile Numpy, Pandas ve Matplotlib kütüphaneleri hızlı bir biçimde gözden geçirilmektedir. 
