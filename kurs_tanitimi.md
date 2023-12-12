@@ -1,4 +1,6 @@
-## Online Gömülü Linux Sistemleri - Kursun Genel Tanıtımı
+##  Online Gömülü Linux Sistemleri - Geliştirme ve Programlama 
+
+## Kursun Genel Tanıtımı
 
 Bu kurs gömülü Linux sistemlerinin oluşturulması, konfigüre edilmesi, kullanıma hazır hale getirilmesi, sistem bileşenlerinin incelenmesi, aygıt sürücülerin yazılması ve çekirdek seviyesinde gerekli işlemlerin yapılabilmesi için gereken bilgi ve becerileri kazandırmayı amaçlamaktadır.
 
