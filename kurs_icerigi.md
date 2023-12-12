@@ -1,4 +1,4 @@
-# Online-Gomulu-Linux-Programlama-Kursu-27-Subat-2024
+# Online-Gomulu-Linux-Sistemleri-Kursu-27-Subat-2024
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 27 Şubat 2024 tarihinde başlayacaktır. 
