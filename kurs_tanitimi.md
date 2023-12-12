@@ -1,4 +1,4 @@
-## Online Gomulu Linux Programlama Kursu - 27-Subat-2024
+## Online Gomulu Linux Sistemleri Kursu - 27-Subat-2024
 
 Bu kurs Python Programlama Dili ile Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ve veri bilimine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
 
