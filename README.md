@@ -1,7 +1,7 @@
 # Online-Gomulu-Linux-Sistemleri-Kursu-27-Subat-2024
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
-+ Kurs 27 Şubat 2023 tarihinde başlayacaktır.
++ Kurs 27 Şubat 2024 tarihinde başlayacaktır.
 + Kurs eğitmeni `Kaan Aslan`'dır.
 + Kursumuz gerçek zamanlıdır. Derslerimiz interaktif olarak yapılmaktadır.
 + Toplam kurs süresi `220` saattir. Dersler `Salı - Perşembe` günleri `19:45 - 22:45` saatleri arasında yapılacaktır. 
