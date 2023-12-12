@@ -1,4 +1,4 @@
-# Online Gömülü Linux Sistemleri Kursu 27 Şubat- 024
+# Online Gömülü Linux Sistemleri Kursu 27 Şubat- 2024
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 27 Şubat 2024 tarihinde başlayacaktır.
