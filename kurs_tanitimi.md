@@ -1,10 +1,10 @@
-## Online Gomulu Linux Sistemleri - Kursun Genel Tanıtımı
+## Online Gömülü Linux Sistemleri - Kursun Genel Tanıtımı
 
-Bu kurs Python Programlama Dili ile Yapay Zeka, Makine Öğrenmesi ve Veri Bilimi konularının ele alındığı uygulamalı bir kurstur. Kurs içerisinde makine öğrenmesine ve veri bilimine ilişkin pek çok konu uygulamalı olarak ele alınmaktadır. 
+Bu kurs gömülü Linux sistemlerinin oluşturulması, konfigüre edilmesi, kullanıma hazır hale getirilmesi, sistem bileşenlerinin incelenmesi, aygıt sürücülerin yazılması ve çekirdek seviyesinde gerekli işlemlerin yapılabilmesi için gereken bilgi ve becerileri kazandırmayı amaçlamaktadır.
 
-Ön Koşul: Bu kurs için katılımcıların temel düzeyde Python Programlama Dili bilgisine sahip olması gerekmektedir. 
+Ön Koşul: Bu kurs için katılımcıların UNIX/Linux ortamlarında kullanıcı düzeyinde çalışmış olmaları, C Programlama Dilini bilmeleri ve Kullanıcı modunda (user mode) temel düzeyde programlama bilgisine sahip olmaları gerekmektedir.
 
-Kimler Katılmalı:  Yapay Zeka, makine öğrenmesi ve veri bilimi konularına ilgi duyan herkes katılabilir.
+Kimler Katılmalı:  Linux sistemlerinde gömülü sistemlerin geliştirilmesine ve programlamasına ilgi duyan ve yukarıda belirtilen ön koşulları sağlayan herkes katılabilir. 
 
 ## Eğitim Süresi
 Eğitim Süresi __220__ Saattir.
