@@ -42,7 +42,9 @@
   * Birinci ve İkinci Düzey Boot Loader Programlar
   * Raspberry Pi Boot Lodaer Mekanizması
   * 
-
+* __Device Tree__
+     * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
+  
 __YOCTO Projesi__
    
 __Buildroot Projesi__
