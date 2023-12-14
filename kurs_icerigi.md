@@ -18,11 +18,11 @@ __Linux Sistemlerinde Dosya Sistemleri__
 
 * XXX
 
-c__Ekran ve Görüntü Birimlerinin Programlanması__
-
-  * Terminal Aygıt Sürücüleri
-  * Framebuffer Aygıt Sürücüleri
-     
+* __Ekran ve Görüntü Birimlerinin Programlanması__
+   * Gömülü Sistemlere Genel Bir Bakış
+   * Terminal Aygıt Sürücüleri
+   * Framebuffer Aygıt Sürücüleri
+      
   
 * __Çevre Birimlerine Kullanıcı Modundan Erişim__
   
