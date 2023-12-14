@@ -18,7 +18,7 @@ __Linux Sistemlerinde Dosya Sistemleri__
 
 * XXX
 
-* __Ekran ve Görüntü Birimlerinin Programlanması__
+c__Ekran ve Görüntü Birimlerinin Programlanması__
 
   * Terminal Aygıt Sürücüleri
   * Framebuffer Aygıt Sürücüleri
@@ -28,20 +28,20 @@ __Linux Sistemlerinde Dosya Sistemleri__
   
    * XX
 
-__Linux Çekirdeğinin Konfigüre Edilmesi__
+* __Linux Çekirdeğinin Konfigüre Edilmesi__
 
-__Linux Sistemlerinin Boot Süreci__
+* __Linux Sistemlerinin Boot Süreci__
   
-   * Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
-   * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
-   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
+  * Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
+  * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
+  * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
 
-__Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
+* __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
-* Boot Loader Kavramı ve Boot Loader Programların İşlevleri
-* Birinci ve İkinci Düzey Boot Loader Programlar
-* Raspberry Pi Boot Lodaer Mekanizması
-* 
+  * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
+  * Birinci ve İkinci Düzey Boot Loader Programlar
+  * Raspberry Pi Boot Lodaer Mekanizması
+  * 
 
 __YOCTO Projesi__
    
