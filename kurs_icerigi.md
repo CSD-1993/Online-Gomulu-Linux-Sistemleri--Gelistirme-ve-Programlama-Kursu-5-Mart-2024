@@ -17,14 +17,14 @@
 __Linux Sistemlerinde Dosya Sistemleri__
 
 * XXX
-   
-__Ekran ve Görüntü Birimlerinin Programlanması__
 
-* Terminal Aygıt Sürücüleri
-* Framebuffer Aygıt Sürücüleri
-   
+* __Ekran ve Görüntü Birimlerinin Programlanması__
+
+  * Terminal Aygıt Sürücüleri
+  * Framebuffer Aygıt Sürücüleri
+     
   
-__Çevre Birimlerine Kullanıcı Modundan Erişim__
+* __Çevre Birimlerine Kullanıcı Modundan Erişim__
   
    * XX
 
