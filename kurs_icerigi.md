@@ -46,7 +46,7 @@
 
   * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
   * Birinci ve İkinci Düzey Boot Loader Programlar
-  * Raspberry Pi Boot Lodaer Mekanizması
+  * Raspberry Pi Boot Loader Mekanizması
  
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
 
