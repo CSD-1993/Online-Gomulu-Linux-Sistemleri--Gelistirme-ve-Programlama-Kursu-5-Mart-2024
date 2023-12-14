@@ -14,9 +14,9 @@
    * Gömülü Sistemlerin Çevre Birimleri
    * Gömülü Sistemlerde Bellek Birimleri
 
-__Linux Sistemlerinde Dosya Sistemleri__
+* __Linux Sistemlerinde Dosya Sistemleri__
 
-* XXX
+    * XXX
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
    * Gömülü Sistemlere Genel Bir Bakış
