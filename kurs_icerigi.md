@@ -2,17 +2,17 @@
 
 * __Giriş ve Temel Bilgiler__
 
-* Gömülü Sistemlere Genel Bir Bakış
-* Gömülü Sistemlerin Karakteristik Özellikler  
-* Bir Kaynak Yöneticisi Olarak İşletim Sistemi
-* İşletim Sistemlerinin Alt Sistemleri
-* Linux Sistemlerinin Tarhihsel Gelişimi
-* Gömülü Linux Sistemi Ne Anlama Gelmektedir?
-* Gömülü Linux Sistemlerinin Masaüstü Linux Sistemlerinden Farklılıklları
-* Mikroişlemci, Mikrodenetleyici, SOC (System on Chip) ve SBC (Single Board Computer) Kavramları
-* Gömülü Linux Sistemleri için Kullanılan Donanımlar
-* Gömülü Sistemlerin Çevre Birimleri
-* Gömülü Sistemlerde Bellek Birimleri
+   * Gömülü Sistemlere Genel Bir Bakış
+   * Gömülü Sistemlerin Karakteristik Özellikler  
+   * Bir Kaynak Yöneticisi Olarak İşletim Sistemi
+   * İşletim Sistemlerinin Alt Sistemleri
+   * Linux Sistemlerinin Tarhihsel Gelişimi
+   * Gömülü Linux Sistemi Ne Anlama Gelmektedir?
+   * Gömülü Linux Sistemlerinin Masaüstü Linux Sistemlerinden Farklılıklları
+   * Mikroişlemci, Mikrodenetleyici, SOC (System on Chip) ve SBC (Single Board Computer) Kavramları
+   * Gömülü Linux Sistemleri için Kullanılan Donanımlar
+   * Gömülü Sistemlerin Çevre Birimleri
+   * Gömülü Sistemlerde Bellek Birimleri
 
 __Linux Sistemlerinde Dosya Sistemleri__
 
@@ -26,15 +26,15 @@ __Ekran ve Görüntü Birimlerinin Programlanması__
   
 __Çevre Birimlerine Kullanıcı Modundan Erişim__
   
-* XX
+   * XX
 
 __Linux Çekirdeğinin Konfigüre Edilmesi__
 
 __Linux Sistemlerinin Boot Süreci__
   
-* Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
-* Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
-* Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
+   * Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
+   * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
+   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
 
 __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
