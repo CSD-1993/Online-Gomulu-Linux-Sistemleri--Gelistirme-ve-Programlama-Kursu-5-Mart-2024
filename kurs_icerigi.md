@@ -41,9 +41,18 @@
   * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
   * Birinci ve İkinci Düzey Boot Loader Programlar
   * Raspberry Pi Boot Lodaer Mekanizması
-  * 
-* __Device Tree__
-     * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
+ 
+* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
+
+* __Aygıt Ağacı (Device Tree)__
+     * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
+     * Aygıt Ağaçlarından Öncesindeki Durum 
+     * Aygıt Ağaçlarının Genel Yapısı
+     * Agıt Ağaçlarının Oluşturulması
+     * Aygıt Ağaçlarının Derlenmesi ve Tersine Derlenmesi (Decompile Edilmesi)
+     * Aygıt Ağaçları ve Boot Süreci
+     * Aygıt Ağaçları ve Aygıt Dosyaları
+     * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
   
 __YOCTO Projesi__
    
