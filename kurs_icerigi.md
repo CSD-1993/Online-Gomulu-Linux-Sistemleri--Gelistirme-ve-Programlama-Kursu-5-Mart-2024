@@ -14,6 +14,12 @@
    * Gömülü Sistemlerin Çevre Birimleri
    * Gömülü Sistemlerde Bellek Birimleri
 
+* __Single Board Bilgisayarlar__
+
+* __Raspberry Pi Donanımının Özellikleri__
+* 
+* __Raspberry Pi Donanımının Özellkleri__
+
 * __Linux Sistemlerinde Dosya Sistemleri__
 
     * XXX
