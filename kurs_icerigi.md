@@ -26,6 +26,10 @@
 * 
 * __Raspberry Pi Donanımının Özellkleri__
 
+* __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi__
+
+    * Single Board Bilgisayarların Handikapları  
+
 * __Linux Sistemlerinde Dosya Sistemleri__
 
     * XXX
