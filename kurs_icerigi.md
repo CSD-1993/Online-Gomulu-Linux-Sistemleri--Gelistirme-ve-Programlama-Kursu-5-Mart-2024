@@ -23,12 +23,17 @@
     * Single Board Bilgisayarların Handikapları
 
 * __Raspberry Pi Donanımının Özellikleri__
-* 
+    
+    * 
 * __Raspberry Pi Donanımının Özellkleri__
 
 * __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi__
 
-    * Single Board Bilgisayarların Handikapları  
+    * Uygun Linux Dağıtımının Belirlenmesi
+    * Linux Dağıtımının Gömülü Sisteme Kabaca Yüklenmesi
+    * Toolchain Kavramı
+    * Doğal (Native) ve Çapraz (Cross) Toolchain'ler
+    * Gömülü Sistemler İçin Çapraz Derleyiciler (Cross Compilers)
 
 * __Linux Sistemlerinde Dosya Sistemleri__
 
@@ -46,19 +51,21 @@
 
 * __Linux Çekirdeğinin Konfigüre Edilmesi__
 
+* __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
+
+  * Ön Yükleyici Kavramı ve Ön Yükleyicileri İşlevleri
+  * Birinci ve İkinci Düzey Ön Yükleyiciler 
+  * Raspberry Pi Ön Yükelyici Mekanizması
+  * Beaglebone Ön Yükelyici Mekanizması
+  * U-Boot (Das U-Boot)
 * __Linux Sistemlerinin Boot Süreci__
   
   * Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
   * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
 
-* __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
-  * Boot Loader Kavramı ve Boot Loader Programların İşlevleri
-  * Birinci ve İkinci Düzey Boot Loader Programlar
-  * Raspberry Pi Boot Loader Mekanizması
- 
-* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
+
 
 * __Aygıt Ağacı (Device Tree)__
      * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
@@ -69,6 +76,8 @@
      * Aygıt Ağaçları ve Boot Süreci
      * Aygıt Ağaçları ve Aygıt Dosyaları
      * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
+ 
+* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
 __YOCTO Projesi__
    
