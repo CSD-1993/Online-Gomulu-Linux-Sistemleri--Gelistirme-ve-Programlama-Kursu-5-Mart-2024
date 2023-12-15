@@ -10,11 +10,17 @@
    * Gömülü Linux Sistemi Ne Anlama Gelmektedir?
    * Gömülü Linux Sistemlerinin Masaüstü Linux Sistemlerinden Farklılıklları
    * Mikroişlemci, Mikrodenetleyici, SOC (System on Chip) ve SBC (Single Board Computer) Kavramları
-   * Gömülü Linux Sistemleri için Kullanılan Donanımlar
+   * Gömülü Linux Sistemleri için Kullanılan Donanımlar, Raspberry Pi ve Beaglebobe Black 
    * Gömülü Sistemlerin Çevre Birimleri
    * Gömülü Sistemlerde Bellek Birimleri
+   * Gömülü Sistemler İçin Emülatörler ve QEMU
 
 * __Single Board Bilgisayarlar__
+
+    * Single Board Bilgisayar Nedir?
+    * Yaygın Kullanılan Single Board Bilgisayarlar
+    * Single Board Bilgisayarların Uygulama Alanları
+    * Single Board Bilgisayarların Handikapları
 
 * __Raspberry Pi Donanımının Özellikleri__
 * 
