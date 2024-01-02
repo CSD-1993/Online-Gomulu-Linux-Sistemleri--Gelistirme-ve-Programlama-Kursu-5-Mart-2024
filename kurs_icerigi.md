@@ -25,19 +25,24 @@
 * __Raspberry Pi Donanımının Özellikleri__
     
     * Raspberry Pi Donanımındaki CPU, GPU ve RAM ÖZellikleri
+    * ARM İşlemcilerinin Özellikleri, Cortex ve Komut Kümeleri
+    * SD Kart Arabirimi
     * GPIO Arabirimi
     * USB Arabirimi
     * Video/Audio Özellikleri
     * Ethernet ve Wireless Birimleri
     * HDMI ile Bağlantı
     * Güç Kaynağının Gerekli Olan Özellikleri
+    * Raspberry Pi Donanımında Kullanılan Kablolar, Soketler ve Konnektörler
       
-* __BeagleBoard Donanımının Özellkleri__
+* __BeagleBone Donanımının Özellkleri__
 
 * __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi__
 
     * Uygun Linux Dağıtımının Belirlenmesi
-    * Linux Dağıtımının Gömülü Sisteme Kabaca Yüklenmesi
+    * Gömülü Linux Sistemleri İçin Kullanılan Dağıtımlar ve Özellikleri
+    * Raspberry Pi ve BeagleBone Donanımlarında Kullanılan Yaygın Dağıtımlar
+    * Linux Dağıtımının Gömülü Sisteme Yüklenmesi
     * Toolchain Kavramı
     * Doğal (Native) ve Çapraz (Cross) Toolchain'ler
     * Gömülü Sistemler İçin Çapraz Derleyiciler (Cross Compilers)
