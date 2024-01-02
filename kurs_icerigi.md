@@ -91,9 +91,6 @@
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
   * Boot Sürecinde Kullanılan Script Dosyaları
 
-
-
-
 * __Aygıt Ağacı (Device Tree)__
      * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
      * Aygıt Ağaçlarından Öncesindeki Durum 
@@ -103,7 +100,6 @@
      * Aygıt Ağaçları ve Boot Süreci
      * Aygıt Ağaçları ve Aygıt Dosyaları
      * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
-
  
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
