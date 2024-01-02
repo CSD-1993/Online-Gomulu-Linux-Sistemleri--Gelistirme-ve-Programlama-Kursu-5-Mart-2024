@@ -49,7 +49,8 @@
 
 * __Linux Sistemlerinde Dosya Sistemleri__
 
-    * XXX
+    * EXT2, EXT3, EXT4 Dosya Sistemleri
+    * 
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
    * Gömülü Sistemlere Genel Bir Bakış
@@ -59,7 +60,8 @@
   
 * __Çevre Birimlerine Kullanıcı Modundan Erişim__
   
-   * XX
+   * USB Arabiriminin Özellikleri 
+   * libusb Kütüphanesinin Kullanımı
 
 * __Linux Çekirdeğinin Konfigüre Edilmesi__
 
