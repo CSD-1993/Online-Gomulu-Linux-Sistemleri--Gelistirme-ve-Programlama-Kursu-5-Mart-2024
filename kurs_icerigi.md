@@ -24,8 +24,15 @@
 
 * __Raspberry Pi Donanımının Özellikleri__
     
-    * 
-* __Raspberry Pi Donanımının Özellkleri__
+    * Raspberry Pi Donanımındaki CPU, GPU ve RAM ÖZellikleri
+    * GPIO Arabirimi
+    * USB Arabirimi
+    * Video/Audio Özellikleri
+    * Ethernet ve Wireless Birimleri
+    * HDMI ile Bağlantı
+    * Güç Kaynağının Gerekli Olan Özellikleri
+      
+* __BeagleBoard Donanımının Özellkleri__
 
 * __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi__
 
@@ -58,6 +65,7 @@
   * Raspberry Pi Ön Yükelyici Mekanizması
   * Beaglebone Ön Yükelyici Mekanizması
   * U-Boot (Das U-Boot)
+  * 
 * __Linux Sistemlerinin Boot Süreci__
   
   * Masaüstü ve Göümü Sistemlerde Boot Sürecinin Başlatılması
