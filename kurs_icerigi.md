@@ -104,6 +104,10 @@
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
 * __YOCTO Projesi__
+    * Poky ve bitbake
+    * Katman (Layer) Kavramı
+
+  
    
 * __Buildroot Projesi__
 
