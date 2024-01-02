@@ -32,7 +32,7 @@
     * Video/Audio Özellikleri
     * Ethernet ve Wireless Birimleri
     * HDMI ile Bağlantı
-    * Güç Kaynağının Gerekli Olan Özellikleri
+    * Güç Kaynağının Olması Gereken Özellikleri
     * Raspberry Pi Donanımında Kullanılan Kablolar, Soketler ve Konnektörler
       
 * __BeagleBone Donanımının Özellkleri__
@@ -49,8 +49,12 @@
 
 * __Linux Sistemlerinde Dosya Sistemleri__
 
-    * EXT2, EXT3, EXT4 Dosya Sistemleri
-    * 
+    * ext2, ext3, ext4, xfs Dosya Sistemlerinin Genel Özellikleri
+    * Dosya Sistemlerinin Mount Edilmesi
+    * Dosya Sistemlerindeki Temel Dizinler ve Anlamları
+    * Dosya Bloklerı, i-node Kavramı
+    * Dosya Sistemlerinin Aşağı Seviyeli Tasarımı
+    * Dosya Sistemlerine Yönelik Aygıt Sürücüler
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
    * Gömülü Sistemlere Genel Bir Bakış
