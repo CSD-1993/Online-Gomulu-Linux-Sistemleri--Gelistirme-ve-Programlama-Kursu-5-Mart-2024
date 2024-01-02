@@ -41,7 +41,7 @@
     * Uygun Linux Dağıtımının Belirlenmesi
     * Gömülü Linux Sistemleri İçin Kullanılan Dağıtımlar ve Özellikleri
     * Raspberry Pi Donanımlarında Kullanılan Yaygın Dağıtımlar
-    * Linux Dağıtımının Gömülü Sisteme Yüklenmesi
+    * Linux Dağıtımlarının Gömülü Sisteme Yüklenmesi
     * Diskin Bölümlendirilmesi ve Buna İlişkin Komutlar ve Utility Programlar
     * Toolchain Kavramı
     * Doğal (Native) ve Çapraz (Cross) Toolchain'ler
@@ -59,19 +59,21 @@
     * Dosya Sistemi İle İlgili Komutlar ve Utility Programlar
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
-   * Gömülü Sistemlere Genel Bir Bakış
    * Terminal Aygıt Sürücüleri
    * Framebuffer Aygıt Sürücüleri
       
   
-* __Çevre Birimlerine Kullanıcı Modundan Erişim__
+* __Çevre Birimlerinin Programlanması__
   
    * USB Arabiriminin Özellikleri 
    * libusb Kütüphanesinin Kullanımı
    * Raspberry Pi Donanımlarında GPIO Uçlarının Kullanımı
    * GPIO Uçlarının Programlanmasına İlişkin Örnekler
-   * I2C ve SPI Arayüzlerinin Kullanılmasına İlişkin Örnekler
+   * I2C ve SPI Arayüzlerinin Kullanılması
+   * UART Kullanımı
    * Raspberry Pi İçin Tasarlanmış GPIO Uçlarını Kullanan Hazır Kartlar (Add-on Boards)
+   * Sensörlerin Kullanımına İlişkin Örnekler
+   * LCD Kullanımına İlişkin Örnekler
 
 * __Linux Çekirdeğinin Konfigüre Edilmesi__
 
