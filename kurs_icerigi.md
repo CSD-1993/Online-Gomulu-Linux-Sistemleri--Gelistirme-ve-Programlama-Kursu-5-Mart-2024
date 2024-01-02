@@ -103,9 +103,13 @@
  
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
-* __YOCTO Projesi__
+* __Yocto Projesi__
     * Poky ve bitbake
-    * Katman (Layer) Kavramı
+    * Katman (Layer) Kavramı ve Kullanımı
+    * Image Kavramı ve Kullanımı
+    * Image İsimleri
+    * Recipe Kavramı ve Kullanımı
+    * Log Mekanizması
 
   
    
