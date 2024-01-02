@@ -104,6 +104,7 @@
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
 * __Yocto Projesi__
+    * Yocto Projesi Nedir?
     * Poky ve bitbake
     * Katman (Layer) Kavramı ve Kullanımı
     * Image Kavramı ve Kullanımı
@@ -114,6 +115,12 @@
   
    
 * __Buildroot Projesi__
+    * Buildroot Projesi Nedir?
+    * Buildroot Çalışma Mekanizması
+    * Buildroot Konfigürasyonu
+    * Sistemin İsteğe Göre Özelleştirilmesi (Customization)
+    * Buildroot'a Yeni Paket Eklemek
+    * Build İşlemi
 
 * __Linux Sistemlerinde Kullanılan Log Sistemi__
 
