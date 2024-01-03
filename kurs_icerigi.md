@@ -127,4 +127,17 @@
 * 
 * 
 * __Linux Aygıt Sürücülerinin Yazımı__
+    * Aygıt sürücülerin anlamı
+    * Linux aygıt sürücü mimarisinin tanıtımı
+    * Linux çekirdek modüllerinin yazımı
+    * Çekirdek modüllerinin yüklenmesi ve boşaltılması
+    * Karakter aygıt sürücülerinin yazımı
+    * Aygıt sürücülerde senkronizasyon işlemleri
+    * Aygıt sürücülerde bekleme kuyruklarının yaratılması ve bloke işlemlerinin sağlanması
+    * Aygıt sürücülerde bellek tahsisatları
+    * Aygıt sürücülerin IO portlarını kullanması
+    * Aygıt sürücülerde kesme işlemlerinin yönetilmesi
+    * Blok aygıt sürücülerinin yazımı
+    * Blok aygıt sürücülerinde bellek haritalaması ve DMA kullanımı
+    * USB aygıt sürücüleri
   
