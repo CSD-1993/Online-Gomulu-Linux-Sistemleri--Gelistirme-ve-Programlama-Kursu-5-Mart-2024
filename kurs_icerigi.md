@@ -24,8 +24,8 @@
 
 * __Raspberry Pi Donanımının Özellikleri__
     
-    * Raspberry Pi Donanımındaki CPU, GPU ve RAM ÖZellikleri
-    * ARM İşlemcilerinin Özellikleri, Cortex ve Komut Kümeleri
+    * Raspberry Pi Donanımındaki CPU, GPU ve RAM Özellikleri
+    * ARM İşlemcilerinin Özellikleri, Cortex ve Komut Kümeleri Çeşitliliği
     * SD Kart Arabirimi
     * GPIO Arabirimi
     * I2C ve SPI Veri Yolları
@@ -33,7 +33,7 @@
     * Video/Audio Özellikleri
     * Ethernet ve Wireless Birimleri
     * HDMI ile Bağlantı
-    * Güç Kaynağının Olması Gereken Özellikleri
+    * Güç Kaynağının Olması Gereken Özellikleri ve Soğutucu Gereksinimi
     * Raspberry Pi Donanımında Kullanılan Soketler ve Kablolar
       
 * __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi ve Kullanıma Hazır Hale Getirilmesi__
@@ -57,11 +57,13 @@
     * Dosya Sistemlerinin Aşağı Seviyeli Tasarımı
     * Dosya Sistemlerine Yönelik Aygıt Sürücüler
     * Dosya Sistemi İle İlgili Komutlar ve Utility Programlar
+    * tmpfs ve ramfs Dosya Sistemleri ve Linux'ta Ramdisk Kullanımı
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
    * Terminal Aygıt Sürücüleri
    * Terminal Aygıt Sürücülerinin Programlanması
    * Framebuffer Aygıt Sürücüleri
+   * Framebuffer Kütüphanesinin Kullanımı
       
   
 * __Çevre Birimlerinin Programlanması__
@@ -85,13 +87,23 @@
   * Raspberry Pi Ön Yükleyici Mekanizması
   * U-Boot (Das U-Boot) Önyükleyicisinin Kullanımı
     
-* __Linux Sistemlerinin Boot Süreci__
+* __Linux Sistemlerinin Başlatılma Süreci__
   
-  * Masaüstü ve Gömülü Sistemlerde Boot Sürecinin Başlatılması
+  * Masaüstü ve Gömülü Sistemlerde Linux Sisteminin Başlatılması
   * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
   * Boot Sürecinde Kullanılan Script Dosyaları
 
+* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
+
+  * Init Paketlerinin İşlevi
+  * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
+  * Systemd Paketinin Kurulumu
+  * Systemd Paketinin İşlevleri
+  * Servis Yöneticisi Olarak Systemd Paketi
+  * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
+  * systemd Paketine İlişkin Komutların Kullanımı
+  
 * __Aygıt Ağacı (Device Tree)__
   
    * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
@@ -103,16 +115,6 @@
    * Aygıt Ağaçları ve Aygıt Dosyaları
    * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
  
-* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
-  
-    * Init Paketlerinin İşlevi
-    * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
-    * Systemd Paketinin Kurulumu
-    * Systemd Paketinin İşlevleri
-    * Servis Yöneticisi Olarak Systemd Paketi
-    * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
-    * systemd Paketine İlişkin Komutların Kullanımı
-  
 * __Yocto Projesi__
   
     * Yocto Projesi Nedir?
@@ -138,6 +140,14 @@
     * log Mesajlarının User Mod ve Kernel Modda Oluşturulması
     * syslod Daemon Programın İşlevi
     * Loglamanın User Modda Programlama Yoluyla Yapılması
+
+* __Linux Daemon (Daemon) Programlarının Yazımı__
+
+    * Daemon Programların Anlamı
+    * Daemon Programların Oluşturulması ve Devreye Sokulması
+    * Daemon Programların Konfigüre Edilmesi
+    * User Mod ve Kernel Mod Daemon Kavramı
+    * Linux Kernel İçerisindeki Kernel Mod Daemon'lar ve İşlevleri 
 
 * __procfs ve sysfs Dosya Sistemlerinin Kullanımı__
   
