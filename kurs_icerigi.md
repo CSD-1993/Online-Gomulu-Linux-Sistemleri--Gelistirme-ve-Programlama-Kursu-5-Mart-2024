@@ -64,8 +64,7 @@
    * Terminal Aygıt Sürücülerinin Programlanması
    * Framebuffer Aygıt Sürücüleri
    * Framebuffer Kütüphanesinin Kullanımı
-      
-  
+        
 * __Çevre Birimlerinin Programlanması__
   
    * USB Arabiriminin Özellikleri 
@@ -79,6 +78,10 @@
    * LCD Kullanımına İlişkin Örnekler
 
 * __Linux Çekirdeğinin Konfigüre Edilmesi__
+* 
+    * Konfigürasyon İşleminin Anlamı
+    * Önemli Konfigürasyon Parametreleri
+    * 
 
 * __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
@@ -141,7 +144,7 @@
     * syslod Daemon Programın İşlevi
     * Loglamanın User Modda Programlama Yoluyla Yapılması
 
-* __Linux Daemon (Daemon) Programlarının Yazımı__
+* __Linux Daemon (Servis) Programlarının Yazımı__
 
     * Daemon Programların Anlamı
     * Daemon Programların Oluşturulması ve Devreye Sokulması
