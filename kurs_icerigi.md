@@ -77,10 +77,12 @@
    * Sensörlerin İşlevleri ve Sensörlerin Kullanımına İlişkin Örnekler
    * LCD Kullanımına İlişkin Örnekler
 
-* __Linux Çekirdeğinin Konfigüre Edilmesi__
+* __Linux Çekirdeğinin Konfigüre Edilmesi ve Derlenmesi__
 * 
     * Konfigürasyon İşleminin Anlamı
     * Önemli Konfigürasyon Parametreleri
+    * Kernel Modülleri
+    * Kernel Modüllerinin Bağımlılıkları
     * 
 
 * __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
@@ -97,7 +99,7 @@
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
   * Boot Sürecinde Kullanılan Script Dosyaları
 
-* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
+* __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Init Paketinin Kullanımı__
 
   * Init Paketlerinin İşlevi
   * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
