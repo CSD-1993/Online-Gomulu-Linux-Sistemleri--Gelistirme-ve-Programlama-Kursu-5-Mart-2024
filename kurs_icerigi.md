@@ -60,6 +60,7 @@
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
    * Terminal Aygıt Sürücüleri
+   * Terminal Aygıt Sürücülerinin Programlanması
    * Framebuffer Aygıt Sürücüleri
       
   
@@ -72,7 +73,7 @@
    * I2C ve SPI Arayüzlerinin Kullanılması
    * UART Kullanımı
    * Raspberry Pi İçin Tasarlanmış GPIO Uçlarını Kullanan Hazır Kartlar (Add-on Boards)
-   * Sensörlerin Kullanımına İlişkin Örnekler
+   * Sensörlerin İşlevleri ve Sensörlerin Kullanımına İlişkin Örnekler
    * LCD Kullanımına İlişkin Örnekler
 
 * __Linux Çekirdeğinin Konfigüre Edilmesi__
@@ -92,18 +93,27 @@
   * Boot Sürecinde Kullanılan Script Dosyaları
 
 * __Aygıt Ağacı (Device Tree)__
-     * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
-     * Aygıt Ağaçlarından Öncesindeki Durum 
-     * Aygıt Ağaçlarının Genel Yapısı
-     * Agıt Ağaçlarının Oluşturulması
-     * Aygıt Ağaçlarının Derlenmesi ve Tersine Derlenmesi (Decompile Edilmesi)
-     * Aygıt Ağaçları ve Boot Süreci
-     * Aygıt Ağaçları ve Aygıt Dosyaları
-     * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
+  
+   * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
+   * Aygıt Ağaçlarından Öncesindeki Durum 
+   * Aygıt Ağaçlarının Genel Yapısı
+   * Agıt Ağaçlarının Oluşturulması
+   * Aygıt Ağaçlarının Derlenmesi ve Tersine Derlenmesi (Decompile Edilmesi)
+   * Aygıt Ağaçları ve Boot Süreci
+   * Aygıt Ağaçları ve Aygıt Dosyaları
+   * Sistem Çalışırken Aygıt Konfigürasyonlarının Ayarlanması
  
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Inıt Paketinin Kullanımı__
   
+    * Init Paketlerinin İşlevi
+    * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
+    * Systemd Paketinin Kurulumu
+    * Systemd Paketinin İşlevleri
+    * Servis Yöneticisi Olarak Systemd Paketi
+    * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
+  
 * __Yocto Projesi__
+  
     * Yocto Projesi Nedir?
     * Poky ve bitbake
     * Katman (Layer) Kavramı ve Kullanımı
@@ -111,6 +121,7 @@
     * Image İsimleri
     * Recipe Kavramı ve Kullanımı
     * Log Mekanizması
+    * Build İşlemi
 
   
    
