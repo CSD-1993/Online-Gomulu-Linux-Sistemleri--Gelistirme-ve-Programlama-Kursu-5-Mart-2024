@@ -111,6 +111,7 @@
     * Systemd Paketinin İşlevleri
     * Servis Yöneticisi Olarak Systemd Paketi
     * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
+    * systemd Paketine İlişkin Komutların Kullanımı
   
 * __Yocto Projesi__
   
@@ -122,10 +123,9 @@
     * Recipe Kavramı ve Kullanımı
     * Log Mekanizması
     * Build İşlemi
-
-  
    
 * __Buildroot Projesi__
+  
     * Buildroot Projesi Nedir?
     * Buildroot Çalışma Mekanizması
     * Buildroot Konfigürasyonu
@@ -135,8 +135,15 @@
 
 * __Linux Sistemlerinde Kullanılan Log Sistemi__
 
-* 
-* 
+    * log Mesajlarının User Mod ve Kernel Modda Oluşturulması
+    * syslod Daemon Programın İşlevi
+    * Loglamanın User Modda Programlama Yoluyla Yapılması
+
+* __procfs ve sysfs Dosya Sistemlerinin Kullanımı__
+  
+    * proc Dosya Sisteminin Kullanımı
+    * sys Dosya sisteminin Kullanımı
+     
 * __Linux Aygıt Sürücülerinin Yazımı__
     * Aygıt sürücülerin anlamı
     * Linux aygıt sürücü mimarisinin tanıtımı
@@ -151,4 +158,5 @@
     * Blok aygıt sürücülerinin yazımı
     * Blok aygıt sürücülerinde bellek haritalaması ve DMA kullanımı
     * USB aygıt sürücüleri
+    * Kernel Thread'lerin Yaratılması ve Kullanımı
   
