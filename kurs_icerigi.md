@@ -3,14 +3,14 @@
 * __Giriş ve Temel Bilgiler__
 
    * Gömülü Sistemlere Genel Bir Bakış
-   * Gömülü Sistemlerin Karakteristik Özellikler  
+   * Gömülü Sistemlerin Karakteristik Özellikleri  
    * Bir Kaynak Yöneticisi Olarak İşletim Sistemi
    * İşletim Sistemlerinin Alt Sistemleri
    * Linux Sistemlerinin Tarhihsel Gelişimi
    * Gömülü Linux Sistemi Ne Anlama Gelmektedir?
    * Gömülü Linux Sistemlerinin Masaüstü Linux Sistemlerinden Farklılıklları
    * Mikroişlemci, Mikrodenetleyici, SOC (System on Chip) ve SBC (Single Board Computer) Kavramları
-   * Gömülü Linux Sistemleri için Kullanılan Donanımlar, Raspberry Pi ve Beaglebobe ve Diğerleri
+   * Gömülü Linux Sistemleri için Kullanılan Donanımlar, Raspberry Pi, Beaglebobe ve Diğerleri
    * Gömülü Sistemlerin Çevre Birimleri
    * Gömülü Sistemlerde Bellek Birimleri
    * Gömülü Sistemler İçin Emülatörler ve QEMU
@@ -20,12 +20,13 @@
     * Single Board Bilgisayar Nedir?
     * Yaygın Kullanılan Single Board Bilgisayarlar
     * Single Board Bilgisayarların Uygulama Alanları
-    * Single Board Bilgisayarların Handikapları
+    * Single Board Bilgisayarların Sınırlılıkları ve Handikapları
 
 * __Raspberry Pi Donanımının Özellikleri__
     
     * Raspberry Pi Donanımındaki CPU, GPU ve RAM Özellikleri
-    * ARM İşlemcilerinin Özellikleri, Cortex ve Komut Kümeleri Çeşitliliği
+    * ARM İşlemcilerinin Özellikleri
+    * ARM işlemcilerinde Cortex Türleri ve Komut Kümeleri Çeşitliliği
     * SD Kart Arabirimi
     * GPIO Arabirimi
     * I2C ve SPI Veri Yolları
