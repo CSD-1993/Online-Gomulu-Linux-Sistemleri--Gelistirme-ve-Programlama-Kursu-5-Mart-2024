@@ -87,6 +87,8 @@
     * Kernel Modüllerinin Çekirdeğe Eklenmesi
     * Kernel Modüllerinin Bağımlılıkları
     * Kernel Modülleri ile İlgili Araçlar, Komutlar ve Utility Programlar
+    * GNU Make Aracının Temel Düzeyde Kullanımı ve Make Dosyalarının Oluşturulması
+    * Linux Çekirdeğinin Derlenmesi
 
 * __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
@@ -98,9 +100,10 @@
 * __Linux Sistemlerinin Başlatılma Süreci__
   
   * Masaüstü ve Gömülü Sistemlerde Linux Sisteminin Başlatılması
-  * Kernel Konfigürasyon Parametrelerinin Anlamı ve Etkileri
+  * Kernel Konfigürasyon Parametrelerinin Boot Sürecindeki Etkileri
+  * Linux Çekirdeğinin Yüklenmesine İlişkin Aşamalar
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
-  * Boot Sürecinde Kullanılan Script Dosyaları
+  * Boot Sürecinde Etkili Olan Script Dosyaları
 
 * __Linux Sistemlerinde Kullanılan Init Paketleri ve Systemd Init Paketinin Kullanımı__
 
@@ -108,9 +111,12 @@
   * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
   * Systemd Paketinin Kurulumu
   * Systemd Paketinin İşlevleri
+  * Daemon Kavramı ve Daemon Programlarının Genel Yapısı
+  * Daemon Programlarının Yazımı
   * Servis Yöneticisi Olarak Systemd Paketi
   * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
-  * systemd Paketine İlişkin Komutların Kullanımı
+  * Systemd İle Servis Yönetiminin Ayrıntıları
+  * Systemd Paketine İlişkin Komutların Kullanımı
   
 * __Aygıt Ağacı (Device Tree)__
   
