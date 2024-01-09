@@ -64,6 +64,9 @@
   
    * Terminal Aygıt Sürücüleri
    * Terminal Aygıt Sürücülerinin Programlanması
+   * X Window Sistemleri
+   * X Window Sistemlerinin Tasarımı ve Programlanmasıne İlişkin Temel Bilgiler
+   * Qt Framework hakkında Genel Bilgiler 
    * Framebuffer Kavramı ve Kullanım Alanları
    * Framebuffer Aygıt Sürücüleri
    * Linux'ta Framebuffer Kütüphanesinin Kullanımı
