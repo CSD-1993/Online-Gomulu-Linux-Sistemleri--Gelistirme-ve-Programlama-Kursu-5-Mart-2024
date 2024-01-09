@@ -10,7 +10,7 @@ Bu kurs için katılımcıların UNIX/Linux ortamlarında kullanıcı düzeyinde
 
 ## Kimler Katılmalı?
 
-Linux sistemlerinde gömülü sistemlerinin geliştirilmesine ve programlamasına ilgi duyan, bu alanda çalışan ve yukarıda belirtilen ön koşulları tamamen ya da kısmen sağlayan herkes katılabilir. 
+Gömülü Linux sistemlerinin geliştirilmesine ve programlamasına ilgi duyan, bu alanda çalışan ve yukarıda belirtilen ön koşulları tamamen ya da kısmen sağlayan herkes katılabilir. 
 
 ## Eğitim Süresi
 
