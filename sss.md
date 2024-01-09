@@ -1,16 +1,10 @@
  ### Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu - Sıkça Sorulan Sorular
 
-### Kursa katılabilmem için hangi düzeyde Python bilgisine sahip olmalıyım?
-Kursa katılabilmeniz için temel düzeyde bir Python bilgisi yeterli olmaktadır. Ancak Python bilginiz ve deneyiminiz ne kadar iyiyse anlatılanları uygulamaya sokma konusunda o kadar avantaj sağlayacaksınız. Kursun başında Python Programlama Dili ile Numpy, Pandas ve Matplotlib kütüphaneleri hızlı bir biçimde gözden geçirilmektedir. 
+### Kursa katılabilmem için hangi düzeyde C bilgisine sahip olmalıyım?
+Kursumuz uygulamalı bir kurstur ve uygulamalarda C Programlama Dili kullanılmaktadır. Bu nedenle katılımcıların C Programlama Dilini biliyor olması gerekmektedir. C bilgisi yeteri kadar iyi olmayan kişiler kursumuza katılabilirler ancak bu durum onların uygulamalardan elde edecekleri verimi düşürebilecektir.
 
-### Python bilmiyorum ancak C++, Java, C# dillerinden birini biliyorum. Kurusunuzu takip edebilir miyim?
-Kursumuzdaki uygulamalar Python ile yapılmaktadır. Python C++, Java ve C# dillerine göre daha kolay öğrenilen nispeten basit bir dildir. Eğer C++, Java ve C# programlama dillerinden birini biliyorsanız yapılan uygulamaları takip edebilirsiniz ancak  bir yandan da Python dilini öğrenmeye çalışmanız daha iyi bir sonuç elde etmenize yardımcı olacaktır.
-
-### Python bilmiyorum ancak Matlab ya da R kullanıyorum. Kurusunuzu takip edebilir miyim?
-Kursumuzdaki uygulamalar Python ile yapılmaktadır. Matlab ve R istatistiksel veri analizinde kullanılmaktadır. Matlab ya da R kullanıyorsanız Python kodlarını hiç bilmeyenlere göre daha kolay anlayabilirsiniz. Ancak bir yandan Python dilini öğrenmeye çalışmanız daha iyi bir sonuç elde etmenize yardımcı olacaktır.
-
-### Python bilmiyorum ancak SPSS gibi paket programları kullanıyorum. Kurusunuzu takip edebilir miyim?
-Kursumuzda konular uygulamalı biçimde ele alınmaktadır ve uygulama dili olarak Python kullanılmaktadır. Dolayısıyla SPSS gibi paket programları kullanıyor olmanız uygulama konusunda size bir avantaj sağlamayacaktır. Eğer Python bilginiz yoksa konuların teorik kısmını anlayabilirsiniz ancak kursta yazılan kodları anlayamayabilirsiniz. Tabii kursumuz uzun sürdüğünden dolayı bir yandan Python öğrenmeye de zaman ayırabilirsiniz.  
+### Benim amacım gömülü Linux sistemlerinde programlama yapmak değil onları oluşturmak ve kullanıma hazır hale getirmek. Bu kursa katılmam uygun olur mu?
+Kursumuz gömülü Linux sistemlerinin oluşturulması, kullanıma hazır hale getirilmesi ve yönetilmesisinin yanı sıra konu ile ilgili programlama etkinliklerini de içermektedir. Eğer sürecin programlama kısmıyla ilgilenmiyorsanız diğer kısımlarındna fayda sağlayabilirsiniz.
 
 ### Kurs programını online olarak takip etmem yani derslere fiziksel olarak katılmamam eğitimden alacağım verimi düşürür mü?
 Hayır. __C ve Sistem Programcıları Derneği__ olarak düzenlediğimiz online kursların bir dezavantaj oluşturmadığını görüyoruz. Kişiden kişiye değişebilmekle birlikte, öğrencinin eğitimi ev ya da çalışma ortamında daha rahat ve konforlu bir şekilde izlemesi genel olarak verimi arttırıyor. Ayrıca eğitime fiziksel olarak katılmanız durumunda, büyük kentlerdeki trafik koşulları düşünüldüğünde ulaşım için harcayacağınız süreden tasarruf etmiş oluyorsunuz.
