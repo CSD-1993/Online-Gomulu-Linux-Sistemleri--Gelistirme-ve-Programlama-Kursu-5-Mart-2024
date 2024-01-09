@@ -55,16 +55,18 @@
     * Dosya Sistemlerinin Mount Edilmesi
     * Dosya Sistemlerindeki Temel Dizinler ve Anlamları
     * Dosya Bloklerı, i-node Kavramı
-    * Dosya Sistemlerinin Aşağı Seviyeli Tasarımı
+    * Linux'ta Kullanılan Dosya Sistemlerinin Aşağı Seviyeli Tasarımları
     * Dosya Sistemlerine Yönelik Aygıt Sürücüler
     * Dosya Sistemi İle İlgili Komutlar ve Utility Programlar
     * tmpfs ve ramfs Dosya Sistemleri ve Linux'ta Ramdisk Kullanımı
 
 * __Ekran ve Görüntü Birimlerinin Programlanması__
+  
    * Terminal Aygıt Sürücüleri
    * Terminal Aygıt Sürücülerinin Programlanması
+   * Framebuffer Kavramı ve Kullanım Alanları
    * Framebuffer Aygıt Sürücüleri
-   * Framebuffer Kütüphanesinin Kullanımı
+   * Linux'ta Framebuffer Kütüphanesinin Kullanımı
         
 * __Çevre Birimlerinin Programlanması__
   
@@ -82,9 +84,9 @@
 * 
     * Konfigürasyon İşleminin Anlamı
     * Önemli Konfigürasyon Parametreleri
-    * Kernel Modülleri
+    * Kernel Modüllerinin Çekirdeğe Eklenmesi
     * Kernel Modüllerinin Bağımlılıkları
-    * 
+    * Kernel Modülleri ile İlgili Araçlar, Komutlar ve Utility Programlar
 
 * __Gömülü Linux Sistemlerinde Kullanılan Ön Yükleyici (Boot Loader) Programlar__
 
