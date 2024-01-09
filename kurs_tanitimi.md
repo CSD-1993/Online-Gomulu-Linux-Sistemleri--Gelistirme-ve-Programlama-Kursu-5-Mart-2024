@@ -2,16 +2,22 @@
 
 ## Kursun Genel Tanıtımı
 
-Bu kurs gömülü Linux sistemlerinin oluşturulması, konfigüre edilmesi, kullanıma hazır hale getirilmesi, sistem bileşenlerinin incelenmesi, aygıt sürücülerin yazılması ve çekirdek seviyesinde gerekli işlemlerin yapılabilmesi için gereken bilgi ve becerileri kazandırmayı amaçlamaktadır.
+Bu kurs gömülü Linux sistemlerinin oluşturulması, konfigüre edilmesi, kullanıma hazır hale getirilmesi, sistem bileşenlerinin incelenmesi, aygıt sürücülerin yazılması ve çekirdek seviyesinde gerekli işlemlerin yapılabilmesi için gereken bilgi ve becerileri kazandırmayı amaçlamaktadır. Kursta gömülü donanım olarak Raspberry Pi kullanılmaktadır. Ancak konular mümkün olduğunca diğer donanımlara da uygulanabilecek biçimde genelleştirilerek ele alınmaktadır. 
 
-Ön Koşul: Bu kurs için katılımcıların UNIX/Linux ortamlarında kullanıcı düzeyinde çalışmış olmaları, C Programlama Dilini bilmeleri ve Kullanıcı modunda (user mode) temel düzeyde programlama bilgisine sahip olmaları gerekmektedir.
+## Ön Koşul
 
-Kimler Katılmalı:  Linux sistemlerinde gömülü sistemlerin geliştirilmesine ve programlamasına ilgi duyan ve yukarıda belirtilen ön koşulları sağlayan herkes katılabilir. 
+Bu kurs için katılımcıların UNIX/Linux ortamlarında kullanıcı düzeyinde çalışmış olmaları, C Programlama Dilini bilmeleri ve Kullanıcı modunda (user mode) temel düzeyde programlama bilgisine sahip olmaları gerekmektedir. Bu ön koşulu tam olarak sağlamayan kişiler kursa katılabilirler ancak bazı konuları anlamakta zorluk çekebilirler.
+
+## Kimler Katılmalı: 
+
+Linux sistemlerinde gömülü sistemlerinin geliştirilmesine ve programlamasına ilgi duyan, bu alanda çalışan ve yukarıda belirtilen ön koşulları tamamen ya da kısmen sağlayan herkes katılabilir. 
 
 ## Eğitim Süresi
-Eğitim Süresi __220__ Saattir.
+
+Eğitim Süresi __320__ Saattir.
 
 ## Ders Saatleri
+
 Dersler __Salı -Perşembe__ günleri saat __19:45-22:45__ saatleri arasında __3__’er saat olarak __(haftada 6 saat)__ yapılacaktır.
 
 ## Eğitmen
