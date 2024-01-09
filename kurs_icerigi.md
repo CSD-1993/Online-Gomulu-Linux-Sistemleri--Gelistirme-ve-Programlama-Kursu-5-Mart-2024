@@ -66,7 +66,7 @@
    * Terminal Aygıt Sürücülerinin Programlanması
    * X Window Sistemleri
    * X Window Sistemlerinin Tasarımı ve Programlanmasıne İlişkin Temel Bilgiler
-   * Qt Framework hakkında Genel Bilgiler 
+   * Qt Framework hakkında Temel Bilgiler ve Basit Örnekler
    * Framebuffer Kavramı ve Kullanım Alanları
    * Framebuffer Aygıt Sürücüleri
    * Linux'ta Framebuffer Kütüphanesinin Kullanımı
@@ -98,11 +98,11 @@
   * Ön Yükleyici Kavramı ve Ön Yükleyicileri İşlevleri
   * Birinci ve İkinci Düzey Ön Yükleyiciler 
   * Raspberry Pi Ön Yükleyici Mekanizması
-  * U-Boot (Das U-Boot) Önyükleyicisinin Kullanımı
+  * U-Boot (Das U-Boot) Önyükleyicisinin Genel Yapısı ve Kullanımı
     
 * __Linux Sistemlerinin Başlatılma Süreci__
   
-  * Masaüstü ve Gömülü Sistemlerde Linux Sisteminin Başlatılması
+  * Masaüstü ve Gömülü Sistemlerde Linux Sistemlerinin Başlatılması
   * Kernel Konfigürasyon Parametrelerinin Boot Sürecindeki Etkileri
   * Linux Çekirdeğinin Yüklenmesine İlişkin Aşamalar
   * Boot Süreci Sırasında Dosya Sistemlerinin Mount Edilmesi
@@ -114,9 +114,7 @@
   * SysVInit ve Upstart Paketleri Hakkında Temel Bilgiler
   * Systemd Paketinin Kurulumu
   * Systemd Paketinin İşlevleri
-  * Daemon Kavramı ve Daemon Programlarının Genel Yapısı
-  * Daemon Programlarının Yazımı
-  * Servis Yöneticisi Olarak Systemd Paketi
+  * Daemon Kavramı 
   * Unit Dosyalarının Oluşturulması ve Servislerin Yönetilmesi
   * Systemd İle Servis Yönetiminin Ayrıntıları
   * Systemd Paketine İlişkin Komutların Kullanımı
@@ -124,7 +122,7 @@
 * __Aygıt Ağacı (Device Tree)__
   
    * Aygıt Ağacı Nedir ve Ne Amaçla Kullanılmaktadır?
-   * Aygıt Ağaçlarından Öncesindeki Durum 
+   * Aygıt Ağaçlarına Neden Gereksinim Duyulmuştur? 
    * Aygıt Ağaçlarının Genel Yapısı
    * Agıt Ağaçlarının Oluşturulması
    * Aygıt Ağaçlarının Derlenmesi ve Tersine Derlenmesi (Decompile Edilmesi)
@@ -135,7 +133,7 @@
 * __Yocto Projesi__
   
     * Yocto Projesi Nedir?
-    * Poky ve bitbake
+    * Poky ve bitbake Kavramları
     * Katman (Layer) Kavramı ve Kullanımı
     * Image Kavramı ve Kullanımı
     * Image İsimleri
@@ -149,7 +147,7 @@
     * Buildroot Çalışma Mekanizması
     * Buildroot Konfigürasyonu
     * Sistemin İsteğe Göre Özelleştirilmesi (Customization)
-    * Buildroot'a Yeni Paket Eklemek
+    * Buildroot'a Yeni Paketlerin Eklenmesi
     * Build İşlemi
 
 * __Linux Sistemlerinde Kullanılan Log Sistemi__
@@ -168,22 +166,23 @@
 
 * __procfs ve sysfs Dosya Sistemlerinin Kullanımı__
   
-    * proc Dosya Sisteminin Kullanımı
-    * sys Dosya sisteminin Kullanımı
+    * proc Dosya Sisteminin Genel Yapısı ve Kullanımı
+    * sys Dosya sisteminin Genel Yapısı ve Kullanımı
      
 * __Linux Aygıt Sürücülerinin Yazımı__
-    * Aygıt sürücülerin anlamı
-    * Linux aygıt sürücü mimarisinin tanıtımı
-    * Linux çekirdek modüllerinin yazımı
-    * Çekirdek modüllerinin yüklenmesi ve boşaltılması
-    * Karakter aygıt sürücülerinin yazımı
-    * Aygıt sürücülerde senkronizasyon işlemleri
-    * Aygıt sürücülerde bekleme kuyruklarının yaratılması ve bloke işlemlerinin sağlanması
-    * Aygıt sürücülerde bellek tahsisatları
-    * Aygıt sürücülerin IO portlarını kullanması
-    * Aygıt sürücülerde kesme işlemlerinin yönetilmesi
-    * Blok aygıt sürücülerinin yazımı
-    * Blok aygıt sürücülerinde bellek haritalaması ve DMA kullanımı
-    * USB aygıt sürücüleri
+  
+    * Aygıt Sürücülerinin Anlamı
+    * Linux Aygıt Sürücü Mimarisinin Tanıtımı
+    * LinuxÇçekirdek Modüllerinin Yazımı
+    * Çekirdek Modüllerinin Yüklenmesi ve Boşaltılması
+    * Karakter Aygıt Sürücülerinin Yazımı
+    * Aygıt Sürücülerde Senkronizasyon İşlemleri
+    * Aygıt Sürücülerde Bekleme Kuyruklarının Yaratılması ve Bloke İşlemlerinin Sağlanması
+    * Aygıt Sürücülerde Bellek Tahsisatları
+    * Aygıt Sürücülerin IO Portlarını Kullanması
+    * Aygıt Sürücülerde Kesme İşlemlerinin Yönetilmesi
+    * Blok Aygıt Sürücülerinin Yazımı
+    * Blok Aygıt Sürücülerinde Bellek Haritalaması ve DMA Kullanımı
+    * USB Aygıt Sürücüleri
     * Kernel Thread'lerin Yaratılması ve Kullanımı
   
