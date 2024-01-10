@@ -26,7 +26,7 @@ Kurs __Kaan ASLAN__ tarafından verilmektedir.
 
 ## Kurs Ücreti
 
-Kursumuzun toplam ücreti KDV dahil 30.000. (Peşin ödemede 26.000 TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil 27.000 TL’dir (Peşin ödemede 24.300 TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
+Kursumuzun toplam ücreti KDV dahil  __32.000 __ TL'dir (Peşin ödemede  __28.000 __ TL’dir). Öğrenciler için kurs ücreti (öğrencilik durumunu belgelemeleri kaydıyla) KDV dahil  __29.000 __ TL’dir (Peşin ödemede  __26.000 __ TL’dir). Kurs ücretini havale yöntemiyle peşin ya da 2 taksit olarak ödeyebilirsiniz.
 
 ## Kursa Kayıt
 
