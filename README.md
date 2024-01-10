@@ -1,4 +1,4 @@
-# Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu 27 Şubat 2024
+# Online Gömülü Linux Sistemleri - Geliştirme ve Programlama Kursu 5 Mart 2024
 
 + Kurs [`C ve Sistem Programcıları Derneği`](http://www.csystem.org/) ve `"Sistem Bilgisayar"` işbirliği ile düzenlenmektedir.
 + Kurs 5 Mart 2024 tarihinde başlayacaktır.
@@ -10,4 +10,4 @@
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Gomulu-Linux-Programlama-Kursu-27-Subat-2024/blob/main/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Gomulu-Linux-Programlama-Kursu-27-Subat-2024/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Gomulu-Linux-Programlama-Kursu-27-Subat-2024/blob/main/sss.md)
-+ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.]()
++ [Kursumuza ön kayıt yaptırmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZwsde6hqzgtH9fu8Bd2BqPqfedu34TG6CGR#/registration)
