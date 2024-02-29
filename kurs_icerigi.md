@@ -88,7 +88,7 @@
   
    * USB Arabiriminin Özellikleri 
    * libusb Kütüphanesinin Kullanımı
-   * Raspberry Pi Donanımlarında GPIO Uçlarının Kullanımı
+   * Raspberry Pi ve BeagleBone Donanımlarında GPIO Uçlarının Kullanımı
    * GPIO Uçlarının Programlanmasına İlişkin Örnekler
    * I2C ve SPI Arayüzlerinin Kullanılması
    * UART Kullanımı
@@ -110,7 +110,7 @@
 
   * Ön Yükleyici Kavramı ve Ön Yükleyicileri İşlevleri
   * Birinci ve İkinci Düzey Ön Yükleyiciler 
-  * Raspberry Pi ve BEagleBone Black Ön Yükleyici Mekanizması
+  * Raspberry Pi ve BeagleBone Black Ön Yükleyici Mekanizması
   * U-Boot (Das U-Boot) Önyükleyicisinin Genel Yapısı ve Kullanımı
     
 * __Linux Sistemlerinin Başlatılma Süreci__
