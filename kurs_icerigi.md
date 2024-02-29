@@ -36,6 +36,19 @@
     * HDMI ile Bağlantı
     * Güç Kaynağının Olması Gereken Özellikleri ve Soğutucu Gereksinimi
     * Raspberry Pi Donanımında Kullanılan Soketler ve Kablolar
+
+* __Beaglebone Black Donanımının Özellikleri__
+    
+    * BeagleBone Black Donanımındaki CPU, GPU ve RAM Özellikleri
+    * SD Kart Arabirimi
+    * GPIO Arabirimi
+    * I2C ve SPI Veri Yolları
+    * USB Arabirimi
+    * Video/Audio Özellikleri
+    * Ethernet ve Wireless Birimleri
+    * HDMI ile Bağlantı
+    * Güç Kaynağının Olması Gereken Özellikleri ve Soğutucu Gereksinimi
+    * BeagleBone Donanımında Kullanılan Soketler ve Kablolar
       
 * __Gömülü Sistemlere Linux İşletim Sisteminin Yüklenmesi ve Kullanıma Hazır Hale Getirilmesi__
 
@@ -79,7 +92,7 @@
    * GPIO Uçlarının Programlanmasına İlişkin Örnekler
    * I2C ve SPI Arayüzlerinin Kullanılması
    * UART Kullanımı
-   * Raspberry Pi İçin Tasarlanmış GPIO Uçlarını Kullanan Hazır Kartlar (Add-on Boards)
+   * Raspberry Pi ve BeagleBone Black İçin Tasarlanmış GPIO Uçlarını Kullanan Hazır Kartlar (Add-on Boards)
    * Sensörlerin İşlevleri ve Sensörlerin Kullanımına İlişkin Örnekler
    * LCD Kullanımına İlişkin Örnekler
 
@@ -97,7 +110,7 @@
 
   * Ön Yükleyici Kavramı ve Ön Yükleyicileri İşlevleri
   * Birinci ve İkinci Düzey Ön Yükleyiciler 
-  * Raspberry Pi Ön Yükleyici Mekanizması
+  * Raspberry Pi ve BEagleBone Black Ön Yükleyici Mekanizması
   * U-Boot (Das U-Boot) Önyükleyicisinin Genel Yapısı ve Kullanımı
     
 * __Linux Sistemlerinin Başlatılma Süreci__
