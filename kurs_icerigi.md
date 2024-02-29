@@ -37,7 +37,7 @@
     * Güç Kaynağının Olması Gereken Özellikleri ve Soğutucu Gereksinimi
     * Raspberry Pi Donanımında Kullanılan Soketler ve Kablolar
 
-* __Beaglebone Black Donanımının Özellikleri__
+* __BeagleBone Black Donanımının Özellikleri__
     
     * BeagleBone Black Donanımındaki CPU, GPU ve RAM Özellikleri
     * SD Kart Arabirimi
