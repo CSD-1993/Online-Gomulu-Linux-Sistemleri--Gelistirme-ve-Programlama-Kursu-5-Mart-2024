@@ -186,7 +186,7 @@
   
     * Aygıt Sürücülerinin Anlamı
     * Linux Aygıt Sürücü Mimarisinin Tanıtımı
-    * LinuxÇçekirdek Modüllerinin Yazımı
+    * Linux Çekirdek Modüllerinin Yazımı
     * Çekirdek Modüllerinin Yüklenmesi ve Boşaltılması
     * Karakter Aygıt Sürücülerinin Yazımı
     * Aygıt Sürücülerde Senkronizasyon İşlemleri
